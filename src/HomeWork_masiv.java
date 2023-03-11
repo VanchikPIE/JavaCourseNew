@@ -17,8 +17,19 @@ public class HomeWork_masiv {
         int[][] mass = new int[5][5];
         System.out.println(Arrays.toString(message4));
         System.out.println(message4);
-        int a = Arrays.binarySearch(message4,3);
+        int a = Arrays.binarySearch(message4,3); // поиск ячейки массива ( нужный ID)
         System.out.println(a);
+       // int[] message = new int[5];
+        //message[0] = 1;
+        // message[1] = 5;
+        // message[2] = 8;
+        // message[3] = 2;
+        // message[4] = 3;
+        // System.out.println(Arrays.toString(message));
+        // Arrays.sort(message);
+        //System.out.println(Arrays.toString(message));
+
+
 
 
     }
