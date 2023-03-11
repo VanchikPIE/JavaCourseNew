@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ab8576-9dca-40f6-8680-031247285126" name="Changes" comment="Array">
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+    <list default="true" id="b1ab8576-9dca-40f6-8680-031247285126" name="Changes" comment="Array - Cat">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_masiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_masiv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HomeWork_6">
+    <configuration name="HomeWork_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_6" />
+      <module name="JavaCourseNew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaCourseNew" />
@@ -53,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork_6" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -67,6 +73,14 @@
       <updated>1673983841911</updated>
       <workItem from="1673983842435" duration="95000" />
     </task>
+    <task id="LOCAL-00001" summary="Array - Cat">
+      <created>1678528032582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678528032582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +99,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array" />
+    <MESSAGE value="Array - Cat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array - Cat" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
